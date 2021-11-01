@@ -1,4 +1,4 @@
 <?php
-//pruebas
+//pruebas para mejoras
 
 ?>
